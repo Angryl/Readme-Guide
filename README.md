@@ -67,3 +67,41 @@ As i said:
 As i said:
 > this cheatsheet will definitely helps you <br/>
 > in building your readme.md file better
+
+**Bonus**
+_github Flavoured markdown_
+
+for highlighting your syntex
+```
+```javascript
+()=>
+{
+return max.num
+}```
+```
+# Task Lists
+```
+- [x] you can use this to mention your completed and incompleted tasks
+- [x] this is a complete task
+- [] this is incomplete task
+```
+- [x] you can use this to mention your completed and incompleted tasks
+- [x] this is a complete task
+- [] this is incomplete task
+
+# Tables
+you can create tables by assebling a list of words and dividing them with `-` (for the first row), and then separating each column with a pipe `|`:
+
+first heading | second heading
+---------------|----------------
+this is cell 1| this is cell 2
+this is another cell | and this is another
+this is cell 4|this is cell 5
+
+# Mentions
+Type `@` symvol, followed by a username, will notify that person to come and view the comment. this is called an
+ __"@mention"__, you can also @mention teams within an _Organisation_.
+ 
+ # Automatic linking foe Urls
+ Any url ( like `https://github.com/Angryl`) will be automatically converted into a clickable link.<br/> 
+ like this -  https://github.com/Angryl
