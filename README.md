@@ -41,14 +41,29 @@ __Alternatively,__
   - just like this 
 ```
 
-# For adding links
+# Links
 ```
-[link text](link)
+Syntex: [link text](link)
 [google](www.google.com)
 ```
-[google](www.google.com)
+# screenshots
+```
+Syntex: ![Image Name](image location)
+![website_logo](/images/logo.png)
+```
+# inline code
+```
+you can use `<addr>` for highlighting some codes
+```
+you can use `<addr>` for highlighting some codes
 
-# adding screenshots
+# blockquotes
 ```
-![imagename](image location)
+As i said:
+> this cheatsheet will definitely helps you
+> in building your readme.md file better
 ```
+
+As i said:
+> this cheatsheet will definitely helps you <br/>
+> in building your readme.md file better
