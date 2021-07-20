@@ -19,6 +19,14 @@ __This text will also be bold__
 
 ~~thus will be the strikethrough~~
 ```
+example:
+* this text will be itallic *
+_This text will also be italic_
+
+**This text will be bold**
+__This text will also be bold__
+
+~~thus will be the strikethrough~~
 # List
 #### Ordered List
 ```
