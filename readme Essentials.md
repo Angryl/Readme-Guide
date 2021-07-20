@@ -2,8 +2,8 @@
 |  Writing a good README - newbies manual     |
 -----------------------------------------------
 
-Open a README.md. file in a new project.
--------------------------------------------------
+### Open a README.md. file in a new project.
+
 
 ```
 *****************************************************
