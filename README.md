@@ -25,8 +25,8 @@ _This text will also be italic_
 
 **This text will be bold**
 __This text will also be bold__
-
 ~~thus will be the strikethrough~~
+
 # List
 #### Ordered List
 ```
