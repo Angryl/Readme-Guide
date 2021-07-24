@@ -17,7 +17,7 @@ _This text will also be italic_
 **This text will be bold**
 __This text will also be bold__
 
-~~thus will be the strikethrough~~
+~~this will be the strikethrough~~
 ```
 example:
 *this text will be itallic*
@@ -25,7 +25,8 @@ _This text will also be italic_
 
 **This text will be bold**
 __This text will also be bold__
-~~thus will be the strikethrough~~
+
+~~this will be the strikethrough~~
 
 # List
 #### Ordered List
@@ -43,6 +44,13 @@ __This text will also be bold__
   * just add  two _space_ in next line,
   * add the `*` Sympol and the _context_
 ```
+Example: 
+* this will be the ordered list
+* just put a start in the begning of the line 
+* and add some *Space* between `*` and the content
+  * this will be the sub points
+  * just add  two _space_ in next line,
+  * add the `*` Sympol and the _context_
 __Alternatively,__
 ```
 - you can use `-` Symbol 
@@ -50,6 +58,11 @@ __Alternatively,__
   - if you hav  sub list , add two spaces before the dash or star
   - just like this 
 ```
+Example:
+- you can use `-` Symbol 
+- and your _unordered_ list works well
+  - if you hav  sub list , add two spaces before the dash or star
+  - just like this 
 
 # Links
 ```
