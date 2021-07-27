@@ -114,12 +114,24 @@ return max.num
 
 # Tables
 you can create tables by assebling a list of words and dividing them with `-` (for the first row), and then separating each column with a pipe `|`:
-
+```
 first heading | second heading
 ---------------|----------------
 this is cell 1| this is cell 2
 this is another cell | and this is another
 this is cell 4|this is cell 5
+```
+example: 
+
+car Company | Country  
+---------------|----------------
+Tata | India
+Toyota | Japan
+NIssan | Japan
+Audi | Germany
+BMW | Germany
+Rolls Royce | United Kingdom
+Lamborghini | Italy
 
 # Mentions
 Type `@` symvol, followed by a username, will notify that person to come and view the comment. this is called an
