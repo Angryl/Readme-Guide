@@ -140,3 +140,5 @@ Type `@` symvol, followed by a username, will notify that person to come and vie
  # Automatic linking foe Urls
  Any url ( like `https://github.com/Angryl`) will be automatically converted into a clickable link.<br/> 
  like this -  https://github.com/Angryl
+
+[official Documentation](https://guides.github.com/features/mastering-markdown/)
