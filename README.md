@@ -115,18 +115,18 @@ Example:
 Syntex: [link text](link)
 [google](www.google.com)
 ```
-# screenshots
+# Screenshots
 ```
 Syntex: ![Image Name](image location)
 ![website_logo](/images/logo.png)
 ```
-# inline code
+# Inline code
 ```
 you can use `<addr>` for highlighting some codes
 ```
 you can use `<addr>` for highlighting some codes
 
-# blockquotes
+# Blockquotes
 ```
 As i said:
 > this cheatsheet will definitely helps you
